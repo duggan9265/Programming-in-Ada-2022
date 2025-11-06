@@ -1,0 +1,7 @@
+project Chapter_2_exercises is
+   
+   for Source_Dirs use ("./", "Packages/Package_Simple_Maths", "Packages/Package_Simple_IO");
+
+   for main use ("Print_Roots.adb");
+
+end Chapter_2_exercises;
