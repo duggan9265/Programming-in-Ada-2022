@@ -1,0 +1,12 @@
+name = "hello_ada"
+description = "hello world for Ada"
+version = "0.1.0-dev"
+
+authors = ["DD"]
+maintainers = ["DD <duggan92652@gmail.com>"]
+maintainers-logins = ["duggan9265"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["hello_ada"]
