@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__print_roots.o
+[PROJECT FILES]
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\chapter_2_exercises.gpr
+20251109203402 36cef4c6297cf667d8a3001074452dc0
+[BOUND OBJECT FILES]
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\Simple_IO.o
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\simple_maths.o
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\print_roots.o
+[GENERATED SOURCE FILES]
+b__print_roots.ads
+b__print_roots.adb
+b__print_roots.ali
+[RESULTING OPTIONS]
+-LC:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\
+-LC:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-lm
+-Wl,--stack=0x2000000

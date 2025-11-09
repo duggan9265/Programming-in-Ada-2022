@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__next_2_pascal.o
+[PROJECT FILES]
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\chapter_2_exercises.gpr
+20251109203402 36cef4c6297cf667d8a3001074452dc0
+[BOUND OBJECT FILES]
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\Next_2_pascal.o
+[GENERATED SOURCE FILES]
+b__next_2_pascal.ads
+b__next_2_pascal.adb
+b__next_2_pascal.ali
+[RESULTING OPTIONS]
+-LC:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\
+-LC:\Users\Lenovo\Documents\Programming-in-Ada-2022\Chapter_2_Exercises\build\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

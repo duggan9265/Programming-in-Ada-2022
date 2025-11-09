@@ -1,7 +1,15 @@
-project Chapter_2_exercises is
-   
-   for Source_Dirs use ("./", "Packages/Package_Simple_Maths", "Packages/Package_Simple_IO");
+project Chapter_2_Exercises is
 
-   for main use ("Print_Roots.adb");
+   for Source_Dirs use ("./",
+                        "src",
+                        "src/Ex_2.2",
+                        "src/Ex_2.4",
+                        "src/Common_Packages/Package_Simple_IO",
+                        "src/Common_Packages/Package_Simple_Maths"); 
+                        -- build using gnatmake src\Ex_2.2\print_roots.adb -P chapter_2_exercises.gpr
 
-end Chapter_2_exercises;
+   for Object_Dir use "build/obj";
+   for Exec_Dir   use "build/bin";
+
+
+end Chapter_2_Exercises;
