@@ -1,0 +1,15 @@
+with Ada.Text_IO; use Ada.Text_IO;
+
+procedure Greet is
+begin
+   
+   Put_Line ("        *");
+   Put_Line ("       * ");
+   Put_Line ("      *  ");
+   Put_Line ("     *   ");
+   Put_Line ("*   *    ");
+   Put_Line (" * *     ");
+   Put_Line ("  *      "); 
+
+
+end Greet;
