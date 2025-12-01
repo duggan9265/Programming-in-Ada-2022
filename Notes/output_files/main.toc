@@ -1,6 +1,7 @@
-\contentsline {section}{\numberline {1}Chapter 2 Notes: Program Structure in Ada}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Core Program Units}{2}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Subprograms: Procedures and Functions}{2}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Comparing the Constructs}{3}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Additional Notes}{4}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}File Organization and Compilation in Practice}{4}{subsection.1.5}%
+\contentsline {section}{\numberline {1}Ada Basics}{2}{section.1}%
+\contentsline {section}{\numberline {2}Chapter 2 Notes: Program Structure in Ada}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Core Program Units}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Subprograms: Procedures and Functions}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Comparing the Constructs}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Additional Notes}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}File Organization and Compilation in Practice}{5}{subsection.2.5}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.17)  6 NOV 2025 22:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.17)  1 DEC 2025 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -761,7 +761,7 @@ File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 12.
- (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\main.aux)
+ (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\main.aux (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\Chapters/Chapter0.aux) (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\Chapters/Chapter2.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 12.
@@ -952,53 +952,53 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
+(Font)              scaled to size 8.0pt on input line 3.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.1pt on input line 2.
+(Font)              scaled to size 6.1pt on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -1008,87 +1008,105 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 [1
 
 {C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 30.
- (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
-File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
-)
-LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 30.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 37.
+\openout2 = `Chapters/Chapter0.aux'.
+
+ (Chapters/Chapter0.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 11.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 11.
  (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 38.
+(Font)              scaled to size 9.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 38.
+(Font)              scaled to size 6.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <9> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.95pt on input line 22.
+)
+
+[2
+
+{C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+\openout2 = `Chapters/Chapter2.aux'.
+
+ (Chapters/Chapter2.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 17.
+ (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 17.
 
 
-[2{C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-Underfull \hbox (badness 3849) in paragraph at lines 110--110
+[3
+
+
+
+{C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+Underfull \hbox (badness 3849) in paragraph at lines 103--103
 []|\T1/ntxtlf/m/n/10.95 Groups and or-ga-
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 110--110
+Underfull \hbox (badness 5696) in paragraph at lines 103--103
 \T1/ntxtlf/m/n/10.95 nizes re-lated el-e-
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 110--111
+Underfull \hbox (badness 2726) in paragraph at lines 103--105
 []|\T1/ntxtlf/m/n/10.95 Computes and re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []|\T1/ntxtlf/m/n/10.95 Standalone state-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 118--119
+Underfull \hbox (badness 1275) in paragraph at lines 112--114
 []|\T1/ntxtlf/m/n/10.95 Should be avoided
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 120--120
+Underfull \hbox (badness 1484) in paragraph at lines 115--115
 []|\T1/ntxtlf/m/n/10.95 Defines a reusable
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 120--121
+Underfull \hbox (badness 1484) in paragraph at lines 115--117
 []|\T1/ntxtlf/m/n/10.95 Defines a reusable
  []
 
 
-
-[3]
 
 [4]
 
-[5] (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\main.aux)
+[5])
+
+[6] (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\main.aux (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\Chapters/Chapter0.aux) (c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\Chapters/Chapter2.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3080538E3DBF1A00D3159CD7A9210F23;1290.
+(rerunfilecheck)             Checksum: 30A737B6092A8B33275EC3792CD924D9;1386.
  ) 
 Here is how much of TeX's memory you used:
- 18114 strings out of 468133
- 277340 string characters out of 5430228
+ 18187 strings out of 468133
+ 279970 string characters out of 5430228
  949227 words of memory out of 5000000
- 46381 multiletter control sequences out of 15000+600000
- 683687 words of font info for 116 fonts, out of 8000000 for 9000
+ 46426 multiletter control sequences out of 15000+600000
+ 686544 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,11n,148p,397b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\main.pdf (5 pages, 209282 bytes).
+<C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on c:\Users\Lenovo\Documents\Programming-in-Ada-2022\Notes\output_files\main.pdf (6 pages, 240307 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

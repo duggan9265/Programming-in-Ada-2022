@@ -1,0 +1,34 @@
+
+
+
+\section{Ada Basics}
+
+Ada is strongly typed with almost no type inference (e.g. let x = 10; compiler will not know that
+x is an integer). Further it uses nominal typing. Therefore, even if 
+two types have identical structure (e.g. are arrays of the same length, both are integer ranges), they
+are considered distinct by Ada unless an explicit conversion is done by the programmer. For example
+
+\begin{lstlisting}[caption={Conversion must be explicit}, label={con_expl}]
+type Meters  is new Float;
+type Seconds is new Float;
+
+Distance : Meters  := 5.0;
+Time     : Seconds := Seconds(Distance);  -- Explicitly convert Meters to Seconds
+                                           -- Think of it like to_int(distance):
+                                           -- a value must be converted to the target type
+\end{lstlisting}
+
+\noindent
+In this example, \texttt{Meters} and \texttt{Seconds} are \emph{derived types}: that is, new types
+created from an existing type (\texttt{Float}). Although they inherit the same operations and have the
+same internal representation, they are considered distinct types and are not assignment-compatible.
+
+\noindent
+The variables \texttt{Distance} and \texttt{Time} are therefore of different types, even though they are both
+represented using floating-point values. Ada prevents mixing such types implicitly. As a result, assigning
+\texttt{Distance} to \texttt{Time} requires an explicit type conversion, as shown in the code. This does not
+represent a meaningful physical conversion (meters to seconds) but simply demonstrates Ada's rule that
+values of derived types must be explicitly converted when used in contexts expecting a different type.
+
+\noindent Ada is a imperative and procedural language at its core (as opposed to declarative/functional).
+
