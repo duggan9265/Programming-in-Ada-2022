@@ -1,0 +1,9 @@
+name = "chapter_2"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Daniel"]
+maintainers = ["Daniel <example@example.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
