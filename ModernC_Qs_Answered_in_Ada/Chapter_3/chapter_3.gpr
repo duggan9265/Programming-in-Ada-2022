@@ -1,0 +1,7 @@
+project Chapter_3 is
+
+   for Source_Dirs use  ("./");
+   for Object_Dir  use "build/obj";
+   for Exec_Dir    use ".";
+
+end Chapter_3;

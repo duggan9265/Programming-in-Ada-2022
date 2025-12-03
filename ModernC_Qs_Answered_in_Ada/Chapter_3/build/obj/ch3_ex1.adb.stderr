@@ -1,0 +1,4 @@
+ch3_ex1.adb:33:20: error: no candidate interpretations match the actuals:
+ch3_ex1.adb:33:20: error: missing argument for parameter "Item" in call to "put" declared at a-tiinio.ads:104, instance at a-inteio.ads:18
+ch3_ex1.adb:33:20: error: missing argument for parameter "Item" in call to "put" declared at a-tiinio.ads:72, instance at a-inteio.ads:18
+ch3_ex1.adb:33:52: error: unmatched actual "fill" in call
