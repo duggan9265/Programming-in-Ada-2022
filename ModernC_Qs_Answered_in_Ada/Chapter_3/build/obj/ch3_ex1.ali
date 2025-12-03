@@ -1,0 +1,75 @@
+V "GNAT Lib v15"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U ch3_ex1%b		ch3_ex1.adb		d26bd22e NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20250808065140 76789da1 ada%s
+D a-except.ads		20250808065140 e7970cd9 ada.exceptions%s
+D a-inteio.ads		20250808065140 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20250808065140 40018c65 ada.io_exceptions%s
+D a-stream.ads		20250808065140 17477cbd ada.streams%s
+D a-string.ads		20250808065140 90ac6797 ada.strings%s
+D a-sttebu.ads		20250808065140 f1ad67a2 ada.strings.text_buffers%s
+D a-stuten.ads		20250808065140 c6ced0ae ada.strings.utf_encoding%s
+D a-tags.ads		20250808065140 fbca0ad5 ada.tags%s
+D a-textio.ads		20250808065140 34ef47de ada.text_io%s
+D a-tiinio.ads		20250808065140 76699c8f ada.text_io.integer_io%s
+D a-unccon.ads		20250808065140 0e9b276f ada.unchecked_conversion%s
+D ch3_ex1.adb		20251203224028 10cf1c54 ch3_ex1%b
+D interfac.ads		20250808065140 9111f9c1 interfaces%s
+D i-cstrea.ads		20250808065140 ffd01b9d interfaces.c_streams%s
+D system.ads		20250808065140 a869df9e system%s
+D s-crtl.ads		20250808065140 beb39b9e system.crtl%s
+D s-exctab.ads		20250808065140 91bef6ef system.exception_table%s
+D s-ficobl.ads		20250808065140 dc5161d4 system.file_control_block%s
+D s-parame.ads		20250808065140 3597fc11 system.parameters%s
+D s-putima.ads		20250808065140 17291fe4 system.put_images%s
+D s-secsta.ads		20250808065140 578279f5 system.secondary_stack%s
+D s-soflin.ads		20250808065140 5d88fdea system.soft_links%s
+D s-stache.ads		20250808065140 0b81c1fe system.stack_checking%s
+D s-stalib.ads		20250808065140 1c9580f6 system.standard_library%s
+D s-stoele.ads		20250808065140 ccded4e8 system.storage_elements%s
+D s-traent.ads		20250808065140 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		20250808065140 fa2a7f59 system.unsigned_types%s
+D s-wchcon.ads		20250808065140 d9032363 system.wch_con%s
+G a e
+G c Z b b [ch3_ex1 standard 7 11 none]
+X 1 ada.ads
+18K9*Ada 22e8 13|3r6 4r6 14r1 16r1 17r1 18r1 19r1 20r1 22r1 23r1 24r1 25r1
+. 26r1 27r1 28r1 30r1 31r1 32r1 33r1
+X 3 a-inteio.ads
+18K13*Integer_Text_IO[11|46] 13|4w10 16r5 18r5 20r5 23r5 25r5 27r5 31r5 32r5
+. 33r5
+X 10 a-textio.ads
+58K13*Text_IO 785e16 13|3w10 14r5 17r5 19r5 22r5 24r5 26r5 28r5 30r5
+89I12*Field{integer}
+91I12*Number_Base{integer}
+284U14*New_Line 13|28s13
+419U14*Get 13|17s13 19s13
+515U14*Put 13|14s13 22s13 24s13 26s13 30s13
+X 11 a-tiinio.ads
+62U14*Get 13|16s21[3|18] 18s21[3|18] 20s21[3|18]
+85U14*Put 13|23s21[3|18] 25s21[3|18] 27s21[3|18] 31s21[3|18] 32s21[3|18]
+. 33s21[3|18]
+87i7 Width{10|89I12} 13|23r28[3|18] 25r28[3|18] 27r28[3|18] 31r28[3|18] 32r28[3|18]
+. 33r28[3|18]
+88i7 Base{10|91I12} 13|23r40[3|18] 25r40[3|18] 27r40[3|18]
+X 13 ch3_ex1.adb
+7U11*ch3_ex1 7b11 35l5 35t12
+9i1 d{integer} 16m25 23r25 33r25
+9i3 m{integer} 18m25 25r25 32r25
+9i5 y{integer} 20m25 27r25 31r25
+10e1 Slash{character} 17m17 19m17
+

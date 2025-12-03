@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__ch3_ex1.o
+[PROJECT FILES]
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\ModernC_Qs_Answered_in_Ada\Chapter_3\chapter_3.gpr
+20251203214044 466ed3247c7ce75b519430e0385f7c05
+[BOUND OBJECT FILES]
+C:\Users\Lenovo\Documents\Programming-in-Ada-2022\ModernC_Qs_Answered_in_Ada\Chapter_3\build\obj\ch3_ex1.o
+[GENERATED SOURCE FILES]
+b__ch3_ex1.ads
+b__ch3_ex1.adb
+b__ch3_ex1.ali
+[RESULTING OPTIONS]
+-LC:\Users\Lenovo\Documents\Programming-in-Ada-2022\ModernC_Qs_Answered_in_Ada\Chapter_3\build\obj\
+-LC:\Users\Lenovo\Documents\Programming-in-Ada-2022\ModernC_Qs_Answered_in_Ada\Chapter_3\build\obj\
+-LC:/users/lenovo/appdata/local/alire/cache/toolchains/gnat_native_15.2.1_346e2e00/lib/gcc/x86_64-w64-mingw32/15.2.0/adalib/
+-static
+C:/users/lenovo/appdata/local/alire/cache/toolchains/gnat_native_15.2.1_346e2e00/lib/gcc/x86_64-w64-mingw32/15.2.0/adalib/libgnat.a
+-Wl,--stack=0x2000000
