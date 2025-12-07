@@ -13,3 +13,8 @@ learning-ada.pdf
 /Notes/output_files
 Notes/output_files/main.toc
 Notes/main.synctex.gz
+/ModernC_Qs_Answered_in_Ada/Chapter_3/build/obj
+/ModernC_Qs_Answered_in_Ada/Chapter_3/build
+/ModernC_Qs_Answered_in_Ada/Chapter_3/build/obj
+*.o
+/ModernC_Qs_Answered_in_Ada/Chapter_3/build
