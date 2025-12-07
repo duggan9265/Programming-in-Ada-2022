@@ -16,3 +16,5 @@ Notes/main.synctex.gz
 /ModernC_Qs_Answered_in_Ada/Chapter_3/build/obj
 /ModernC_Qs_Answered_in_Ada/Chapter_3/build
 /ModernC_Qs_Answered_in_Ada/Chapter_3/build/obj
+*.o
+/ModernC_Qs_Answered_in_Ada/Chapter_3/build
