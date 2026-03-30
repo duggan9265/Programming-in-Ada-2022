@@ -1,0 +1,62 @@
+V "GNAT Lib v15"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U ch4_ex1%b		ch4_ex1.adb		c1b23d12 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_3%s	s-conca3.adb		s-conca3.ali
+
+D ada.ads		20250808065140 76789da1 ada%s
+D a-except.ads		20250808065140 e7970cd9 ada.exceptions%s
+D a-ioexce.ads		20250808065140 40018c65 ada.io_exceptions%s
+D a-stream.ads		20250808065140 17477cbd ada.streams%s
+D a-string.ads		20250808065140 90ac6797 ada.strings%s
+D a-sttebu.ads		20250808065140 f1ad67a2 ada.strings.text_buffers%s
+D a-stuten.ads		20250808065140 c6ced0ae ada.strings.utf_encoding%s
+D a-tags.ads		20250808065140 fbca0ad5 ada.tags%s
+D a-textio.ads		20250808065140 34ef47de ada.text_io%s
+D a-unccon.ads		20250808065140 0e9b276f ada.unchecked_conversion%s
+D ch4_ex1.adb		20260328214748 f55d7acc ch4_ex1%b
+D interfac.ads		20250808065140 9111f9c1 interfaces%s
+D i-cstrea.ads		20250808065140 ffd01b9d interfaces.c_streams%s
+D system.ads		20250808065140 a869df9e system%s
+D s-conca3.ads		20250808065140 8a7a19a2 system.concat_3%s
+D s-crtl.ads		20250808065140 beb39b9e system.crtl%s
+D s-exctab.ads		20250808065140 91bef6ef system.exception_table%s
+D s-ficobl.ads		20250808065140 dc5161d4 system.file_control_block%s
+D s-parame.ads		20250808065140 3597fc11 system.parameters%s
+D s-putima.ads		20250808065140 17291fe4 system.put_images%s
+D s-secsta.ads		20250808065140 578279f5 system.secondary_stack%s
+D s-soflin.ads		20250808065140 5d88fdea system.soft_links%s
+D s-stache.ads		20250808065140 0b81c1fe system.stack_checking%s
+D s-stalib.ads		20250808065140 1c9580f6 system.standard_library%s
+D s-stoele.ads		20250808065140 ccded4e8 system.storage_elements%s
+D s-traent.ads		20250808065140 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		20250808065140 fa2a7f59 system.unsigned_types%s
+D s-wchcon.ads		20250808065140 d9032363 system.wch_con%s
+G a e
+G c Z b b [ch4_ex1 standard 3 11 none]
+X 1 ada.ads
+18K9*Ada 22e8 11|1r6 11r4 12r4 17r4
+X 9 a-textio.ads
+58K13*Text_IO 785e16 11|1w10 11r8 12r8 17r8
+515U14*Put 11|17s16
+535U14*Get_Line 11|12s16
+565U14*Put_Line 11|11s16
+X 11 ch4_ex1.adb
+3U11*ch4_ex1 3b11 19l5 19t12
+5a4 Number{string} 12m25 14r10 15r10
+6i4 Last{natural} 12m33
+7e4 N1{character} 14m4 17r44
+8e4 N2{character} 15m4 17r41
+
